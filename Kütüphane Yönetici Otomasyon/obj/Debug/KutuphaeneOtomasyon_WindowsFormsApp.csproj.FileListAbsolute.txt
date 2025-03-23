@@ -1,0 +1,11 @@
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\bin\Debug\deneme_WindowsFormsApp.exe.config
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\bin\Debug\deneme_WindowsFormsApp.exe
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\bin\Debug\deneme_WindowsFormsApp.pdb
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\KutuphaeneOtomasyon_WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\deneme_WindowsFormsApp.FormKitaplar.resources
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\deneme_WindowsFormsApp.FormLoginEkran.resources
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\deneme_WindowsFormsApp.Properties.Resources.resources
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\KutuphaeneOtomasyon_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\KutuphaeneOtomasyon_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\deneme_WindowsFormsApp.exe
+C:\Users\ebeng\source\repos\deneme_WindowsFormsApp\obj\Debug\deneme_WindowsFormsApp.pdb

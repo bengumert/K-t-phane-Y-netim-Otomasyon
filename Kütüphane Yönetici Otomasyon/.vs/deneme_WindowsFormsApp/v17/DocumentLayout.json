@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|c:\\users\\ebeng\\source\\repos\\deneme_windowsformsapp\\formloginekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|solutionrelative:formloginekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|c:\\users\\ebeng\\source\\repos\\deneme_windowsformsapp\\kutuphaneotomasyondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|solutionrelative:kutuphaneotomasyondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|solutionrelative:formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|deneme_WindowsFormsApp.csproj|C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|deneme_WindowsFormsApp.csproj|solutionrelative:formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\formloginekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|solutionrelative:formloginekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5E2DEB-EE0D-49F9-839F-ED4332761324}|KutuphaeneOtomasyon_WindowsFormsApp.csproj|solutionrelative:formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KutuphaneOtomasyonDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\KutuphaneOtomasyonDataSet.xsd",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonDataSet.xsd",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\KutuphaneOtomasyonDataSet.xsd",
+              "RelativeToolTip": "KutuphaneOtomasyonDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-03-23T09:53:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs",
+              "RelativeDocumentMoniker": "FormKitaplar.cs",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs",
+              "RelativeToolTip": "FormKitaplar.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAAAHcBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:00:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormKitaplar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs",
+              "RelativeDocumentMoniker": "FormKitaplar.cs",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs [Design]",
+              "RelativeToolTip": "FormKitaplar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:28:32.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLoginEkran.cs",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormLoginEkran.cs",
+              "RelativeDocumentMoniker": "FormLoginEkran.cs",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormLoginEkran.cs",
+              "RelativeToolTip": "FormLoginEkran.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:59:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLoginEkran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormLoginEkran.cs",
+              "RelativeDocumentMoniker": "FormLoginEkran.cs",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormLoginEkran.cs [Design]",
+              "RelativeToolTip": "FormLoginEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:58:56.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKitaplar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs",
+              "RelativeDocumentMoniker": "FormKitaplar.cs",
+              "ToolTip": "C:\\Users\\ebeng\\source\\repos\\deneme_WindowsFormsApp\\FormKitaplar.cs [Design]",
+              "RelativeToolTip": "FormKitaplar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:51:33.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
